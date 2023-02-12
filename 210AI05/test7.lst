@@ -1,0 +1,6 @@
+00000000  whatever : SET 16 
+00000001  abc : SET 14 
+00000002  start : 
+00000002 00001000 ldc whatever 
+00000003 00000E00 ldc abc 
+00000004 00000006 add 
